@@ -46,3 +46,5 @@ The course is split in three main sections:
     - Strain and Force Sensors:
       - Strain gauges sensors
 
+
+[1. Signal Description](https://github.com/FrancescoGavetti/SignalRecovery/blob/main/1.%20Signal%20Description.pdf)
