@@ -46,7 +46,8 @@ The course is split in three main sections:
     - Strain and Force Sensors:
       - Strain gauges sensors
 
-    #NOTICE
+    # NOTICE
+    
     The following notes are a sort of summary of what is written in the Professor’s book, but they even contain some considerations made by Prof. Rech himself and his assistant (Eng. Giulia Acconcia) during live and recorded lectures and exercise classes.
     For these reasons, I strongly recommend you of reading the Professor’s book, following lessons and exercises classes, and above all, doing a lot of exercises to deeply understand all the topics.
 
