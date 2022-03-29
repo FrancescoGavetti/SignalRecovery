@@ -53,3 +53,4 @@ The course is split in three main sections:
 
 
 [1. Signal Description](https://github.com/FrancescoGavetti/SignalRecovery/blob/main/1.%20Signal%20Description.pdf)
+[2. Noise Description](https://github.com/FrancescoGavetti/SignalRecovery/blob/main/2.%20Noise%20Description.pdf)
